@@ -106,7 +106,7 @@ table.title-search-result td.title-search-separator
 
 div.title-search-fader {
 	display:none;
-	background-image: url('/local/templates/mzur/components/bitrix/search.title/search_phone/images/fader.png');
+	background-image: url('fader.png');
 	background-position: right top;
 	background-repeat: repeat-y;
 	position:absolute;

@@ -117,7 +117,7 @@
 	height: 30px;
 	width: 28px;
 	cursor: pointer;
-	background: url("images/popup_sprite.png") no-repeat 0 0 #E2EBEE;
+	background: url("popup_sprite.png") no-repeat 0 0 #E2EBEE;
 }
 
 .bx-core-adm-dialog .bx-core-adm-icon-expand {background-position: 0 0;}
@@ -139,7 +139,7 @@
 .bx-core-adm-dialog .bx-core-adm-dialog-tabs .adm-detail-tab {
 	display: inline-block !important;
 	cursor: pointer !important;
-	background: url("images/bx-admin-sprite-small-2.png") repeat-x scroll 0 -2728px transparent !important;
+	background: url("bx-admin-sprite-small-2.png") repeat-x scroll 0 -2728px transparent !important;
 	border-radius: 2px 2px 0 0 !important;
 	border: none !important;
 	color: #1C53A2 !important;
@@ -287,7 +287,7 @@
 }
 
 
-.bx-core-adm-dialog .bx-core-resizer {background: url("images/popup_sprite.png") no-repeat right -188px; position: absolute; z-index: 6; bottom: 3px; right: 2px; height: 20px; width: 20px;
+.bx-core-adm-dialog .bx-core-resizer {background: url("popup_sprite.png") no-repeat right -188px; position: absolute; z-index: 6; bottom: 3px; right: 2px; height: 20px; width: 20px;
 }
 
 
@@ -404,12 +404,12 @@
 
 .bx-core-popup-menu-angle {
 	top: -9px;
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -1490px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -1490px;
 }
 
 .bx-core-popup-menu-angle-bottom {
 	bottom: -9px;
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -1470px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -1470px;
 }
 
 .bx-core-popup-menu-item {
@@ -481,87 +481,87 @@
 }
 
 .adm-menu-content {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -30px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -30px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-content,
 .bx-core-popup-menu-item-opened .adm-menu-content
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -60px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -60px;
 }
 
 .adm-menu-services {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -90px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -90px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-services,
 .bx-core-popup-menu-item-opened .adm-menu-services
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -120px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -120px;
 }
 
 .adm-menu-settings {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -150px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -150px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-settings,
 .bx-core-popup-menu-item-opened .adm-menu-settings
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -180px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -180px;
 }
 
 .adm-menu-favorites {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -210px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -210px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-favorites,
 .bx-core-popup-menu-item-opened .adm-menu-favorites
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -240px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -240px;
 }
 
 .adm-menu-analytics {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -300px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -300px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-analytics,
 .bx-core-popup-menu-item-opened .adm-menu-analytics
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -330px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -330px;
 }
 
 .adm-menu-marketPlace {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -360px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -360px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-marketPlace,
 .bx-core-popup-menu-item-opened .adm-menu-marketPlace
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -390px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -390px;
 }
 
 .adm-menu-desktop {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -420px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -420px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-desktop,
 .bx-core-popup-menu-item-opened .adm-menu-desktop
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -450px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -450px;
 }
 
 .adm-menu-store {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -480px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -480px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-store,
 .bx-core-popup-menu-item-opened .adm-menu-store
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -510px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -510px;
 }
 
 .adm-menu-marketing {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -1353px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -1353px;
 }
 
 .bx-core-popup-menu-item:hover .adm-menu-marketing,
@@ -571,24 +571,24 @@
 
 .bx-core-popup-menu-item-checked .bx-core-popup-menu-item-text
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -540px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -540px;
 }
 
 .bx-core-popup-menu-item-checked:hover .bx-core-popup-menu-item-text
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat left -570px;
+	background: url("popup_menu_sprite_2.png") no-repeat left -570px;
 }
 
 .bx-core-popup-menu-item-opener .bx-core-popup-menu-item-text
 {
 	padding-right: 20px;
-	background: url("images/popup_menu_sprite_2.png") no-repeat right -270px;
+	background: url("popup_menu_sprite_2.png") no-repeat right -270px;
 }
 
 .bx-core-popup-menu-item-opener:hover .bx-core-popup-menu-item-text,
 .bx-core-popup-menu-item-opened .bx-core-popup-menu-item-text
 {
-	background: url("images/popup_menu_sprite_2.png") no-repeat right 0;
+	background: url("popup_menu_sprite_2.png") no-repeat right 0;
 }
 
 .bx-core-popup-menu-separator {
@@ -616,7 +616,7 @@
 
 
 /*menu icons*/
-.bx-core-popup-menu-item .checked {background-image:url(/bitrix/js/main/core/images/menu/checkbox.gif);}
+.bx-core-popup-menu-item .checked {background-image:url(/bitrix/js/main/core/menu/checkbox.gif);}
 
 /*component menu icons */
 .bx-core-popup-menu-item .parameters {background-image:url(/bitrix/themes/.default/public/components/buttons/parameters.gif);}
@@ -728,8 +728,8 @@
 }
 
 .bx-core-adm-dialog a.bx-popup-sign {display:block; width:11px; height:11px; overflow:hidden; margin-right:3px; background-repeat:no-repeat; background-position:top left;}
-.bx-core-adm-dialog a.bx-popup-minus {background-image:url(/bitrix/js/main/core/images/components/minus.gif);}
-.bx-core-adm-dialog a.bx-popup-plus {background-image:url(/bitrix/js/main/core/images/components/plus.gif);}
+.bx-core-adm-dialog a.bx-popup-minus {background-image:url(/bitrix/js/main/core/components/minus.gif);}
+.bx-core-adm-dialog a.bx-popup-plus {background-image:url(/bitrix/js/main/core/components/plus.gif);}
 
 /* styles for WYSIWYG/HTML/PHP editors in public mode - BX.CEditorDialog */
 .bx-core-adm-dialog .bx-core-editor-dialog-content-wrap{
